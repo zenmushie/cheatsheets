@@ -1,4 +1,6 @@
 
+# aliases for raycast
+
 ```
 1 → 1password\
 d → add to dropover\
