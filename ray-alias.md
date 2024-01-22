@@ -1,5 +1,5 @@
 
-# aliases for raycast
+### aliases for raycast
 
 ```
 1 → 1password\
