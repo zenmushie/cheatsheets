@@ -1,3 +1,5 @@
+
+```
 1 → 1password\
 d → add to dropover\
 c → clipboard history\
@@ -24,3 +26,4 @@ sch → my schedule\
 cic → create image from code ray.so\
 full → toggle fullscreen\
 repo → git search repositories
+```
