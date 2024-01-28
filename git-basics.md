@@ -15,7 +15,7 @@
 ```
   git log --pretty=oneline
 ```
-### git clone
+### git clone 
 ```
 git clone {{link_to_branch}} #clone a branch
 ```
